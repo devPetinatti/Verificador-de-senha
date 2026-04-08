@@ -28,8 +28,8 @@ if re.search(r"[!@#$%^&*(),.?\":{}|<>]", senha):
 
 # aqui o resultado
 if forca <= 2:
-    print("Senha fraca 😡")
+    print("Senha fraca")
 elif forca == 3 or forca == 4:
-    print("Senha média 😐")
+    print("Senha média")
 else:
-    print("Senha forte 💪")
+    print("Senha forte")
