@@ -1,2 +1,9 @@
-# Verificador-de-senha
-Programa simples em python que verifica se uma senha é forte ou não.
+# 🔐 Verificador de Senhas
+
+Projeto simples em Python que analisa a força de uma senha.
+
+## Funcionalidades
+- Verifica tamanho
+- Letras maiúsculas e minúsculas
+- Números
+- Símbolos
