@@ -1,3 +1,5 @@
+# usei a biblioteca "re" para o código realizar a verificação de itens semelhantes
+
 import re
 
 senha = input("Digite uma senha: ")
